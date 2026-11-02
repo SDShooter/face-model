@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "skills": {
+    "hf-cli": {
+      "source": "huggingface/skills",
+      "sourceType": "github",
+      "skillPath": "skills/hf-cli/SKILL.md",
+      "computedHash": "78ed13a0095b1c7a9820e31274118f289e23bc24012915e6380a7645fc906d03"
+    },
+    "machine-learning": {
+      "source": "mindrally/skills",
+      "sourceType": "github",
+      "skillPath": "machine-learning/SKILL.md",
+      "computedHash": "91e6464affa1d6d2c30793fa63bb3bff61f2b529580cf28a0aaef78be1a8473a"
+    },
+    "mle-workflow": {
+      "source": "affaan-m/ecc",
+      "sourceType": "github",
+      "skillPath": "skills/mle-workflow/SKILL.md",
+      "computedHash": "b38883ff6e7ad2ba0eec03b8cb982440bc34ee92cf8a60e08ebd3fd035126550"
+    },
+    "pytorch-patterns": {
+      "source": "affaan-m/ecc",
+      "sourceType": "github",
+      "skillPath": "skills/pytorch-patterns/SKILL.md",
+      "computedHash": "eb170710a86bc3bc292ad27fddbdf15e46f707eab139e192bad59099cb47586a"
+    }
+  }
+}

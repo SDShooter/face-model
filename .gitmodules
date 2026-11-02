@@ -1,0 +1,3 @@
+[submodule "SHeaP"]
+	path = SHeaP
+	url = https://github.com/nlml/SHeaP.git
